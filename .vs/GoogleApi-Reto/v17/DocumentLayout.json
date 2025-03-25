@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|c:\\users\\unaxz\\downloads\\googleapi-reto\\googleapi-reto\\views\\googlecalendar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|solutionrelative:googleapi-reto\\views\\googlecalendar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|c:\\users\\unaxz\\downloads\\googleapi-reto\\googleapi-reto\\views\\googlecalendar\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|solutionrelative:googleapi-reto\\views\\googlecalendar\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|c:\\users\\unaxz\\downloads\\googleapi-reto\\googleapi-reto\\views\\googlecalendar\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|solutionrelative:googleapi-reto\\views\\googlecalendar\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|c:\\users\\unaxz\\downloads\\googleapi-reto\\googleapi-reto\\controllers\\googlecalendarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|solutionrelative:googleapi-reto\\controllers\\googlecalendarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|c:\\users\\unaxz\\downloads\\googleapi-reto\\googleapi-reto\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|solutionrelative:googleapi-reto\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|c:\\users\\unaxz\\downloads\\googleapi-reto\\googleapi-reto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|solutionrelative:googleapi-reto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|c:\\users\\unaxz\\downloads\\googleapi-reto\\googleapi-reto\\datastore\\sessiondatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|solutionrelative:googleapi-reto\\datastore\\sessiondatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|c:\\users\\unaxz\\downloads\\googleapi-reto\\googleapi-reto\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|solutionrelative:googleapi-reto\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|c:\\users\\unaxz\\downloads\\googleapi-reto\\googleapi-reto\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|solutionrelative:googleapi-reto\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|c:\\users\\unaxz\\downloads\\googleapi-reto\\googleapi-reto\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|solutionrelative:googleapi-reto\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|c:\\users\\unaxz\\downloads\\googleapi-reto\\googleapi-reto\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|solutionrelative:googleapi-reto\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|c:\\users\\unaxz\\downloads\\googleapi-reto\\googleapi-reto\\credentials.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|solutionrelative:googleapi-reto\\credentials.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|c:\\users\\unaxz\\downloads\\googleapi-reto\\googleapi-reto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|solutionrelative:googleapi-reto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|c:\\users\\unaxz\\downloads\\googleapi-reto\\googleapi-reto\\models\\googlecalendareventupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|solutionrelative:googleapi-reto\\models\\googlecalendareventupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|c:\\users\\unaxz\\downloads\\googleapi-reto\\googleapi-reto\\models\\googlecalendareventinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|solutionrelative:googleapi-reto\\models\\googlecalendareventinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|c:\\users\\unaxz\\downloads\\googleapi-reto\\googleapi-reto\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFCAC3E-60D7-42ED-9D75-6B3C581F131A}|GoogleApi-Reto\\GoogleApi-Reto.csproj|solutionrelative:googleapi-reto\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SessionDataStore.cs",
+              "DocumentMoniker": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\DataStore\\SessionDataStore.cs",
+              "RelativeDocumentMoniker": "GoogleApi-Reto\\DataStore\\SessionDataStore.cs",
+              "ToolTip": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\DataStore\\SessionDataStore.cs",
+              "RelativeToolTip": "GoogleApi-Reto\\DataStore\\SessionDataStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:37:36.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "GoogleApi-Reto\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "GoogleApi-Reto\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T15:29:54.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GoogleApi-Reto\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GoogleApi-Reto\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T15:29:51.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "GoogleApi-Reto\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "GoogleApi-Reto\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T15:29:49.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "GoogleApi-Reto\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "GoogleApi-Reto\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T15:29:44.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\Program.cs",
+              "RelativeDocumentMoniker": "GoogleApi-Reto\\Program.cs",
+              "ToolTip": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\Program.cs",
+              "RelativeToolTip": "GoogleApi-Reto\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:25:41.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "credentials.json",
+              "DocumentMoniker": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\credentials.json",
+              "RelativeDocumentMoniker": "GoogleApi-Reto\\credentials.json",
+              "ToolTip": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\credentials.json",
+              "RelativeToolTip": "GoogleApi-Reto\\credentials.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACdAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T15:25:31.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\appsettings.json",
+              "RelativeDocumentMoniker": "GoogleApi-Reto\\appsettings.json",
+              "ToolTip": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\appsettings.json",
+              "RelativeToolTip": "GoogleApi-Reto\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T15:25:21.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GoogleCalendarEventUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\Models\\GoogleCalendarEventUpdate.cs",
+              "RelativeDocumentMoniker": "GoogleApi-Reto\\Models\\GoogleCalendarEventUpdate.cs",
+              "ToolTip": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\Models\\GoogleCalendarEventUpdate.cs",
+              "RelativeToolTip": "GoogleApi-Reto\\Models\\GoogleCalendarEventUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:24:55.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GoogleCalendarEventInsert.cs",
+              "DocumentMoniker": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\Models\\GoogleCalendarEventInsert.cs",
+              "RelativeDocumentMoniker": "GoogleApi-Reto\\Models\\GoogleCalendarEventInsert.cs",
+              "ToolTip": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\Models\\GoogleCalendarEventInsert.cs",
+              "RelativeToolTip": "GoogleApi-Reto\\Models\\GoogleCalendarEventInsert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:24:38.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "GoogleApi-Reto\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "GoogleApi-Reto\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:24:24.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GoogleApi-Reto\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GoogleApi-Reto\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:24:18.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\Views\\GoogleCalendar\\Index.cshtml",
+              "RelativeDocumentMoniker": "GoogleApi-Reto\\Views\\GoogleCalendar\\Index.cshtml",
+              "ToolTip": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\Views\\GoogleCalendar\\Index.cshtml",
+              "RelativeToolTip": "GoogleApi-Reto\\Views\\GoogleCalendar\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T11:59:05.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\Views\\GoogleCalendar\\Edit.cshtml",
+              "RelativeDocumentMoniker": "GoogleApi-Reto\\Views\\GoogleCalendar\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\Views\\GoogleCalendar\\Edit.cshtml",
+              "RelativeToolTip": "GoogleApi-Reto\\Views\\GoogleCalendar\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T10:12:36.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\Views\\GoogleCalendar\\Create.cshtml",
+              "RelativeDocumentMoniker": "GoogleApi-Reto\\Views\\GoogleCalendar\\Create.cshtml",
+              "ToolTip": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\Views\\GoogleCalendar\\Create.cshtml",
+              "RelativeToolTip": "GoogleApi-Reto\\Views\\GoogleCalendar\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T09:33:36.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GoogleCalendarController.cs",
+              "DocumentMoniker": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\Controllers\\GoogleCalendarController.cs",
+              "RelativeDocumentMoniker": "GoogleApi-Reto\\Controllers\\GoogleCalendarController.cs",
+              "ToolTip": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\Controllers\\GoogleCalendarController.cs",
+              "RelativeToolTip": "GoogleApi-Reto\\Controllers\\GoogleCalendarController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAWwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:16:14.725Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

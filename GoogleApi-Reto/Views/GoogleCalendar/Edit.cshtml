@@ -1,0 +1,42 @@
+﻿@using Google.Apis.Calendar.v3.Data
+@model Google.Apis.Calendar.v3.Data.Event
+
+@{
+    ViewData["Title"] = "Editar Evento";
+    // Función local para obtener la fecha-hora en formato datetime-local
+    string GetDateTimeLocal(EventDateTime evt)
+    {
+        if (evt.DateTime != null)
+        {
+            return evt.DateTime.Value.ToString("yyyy-MM-ddTHH:mm");
+        }
+        else if (!string.IsNullOrEmpty(evt.Date))
+        {
+            // Convertir la fecha (asumiendo medianoche)
+            DateTime dt = DateTime.Parse(evt.Date);
+            return dt.ToString("yyyy-MM-ddTHH:mm");
+        }
+        return "";
+    }
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form method="post">
+    <input type="hidden" id="Id" name="Id" value="@Model.Id" />
+    <div class="form-group">
+        <label for="Summary">Nombre del Evento</label>
+        <input type="text" class="form-control" id="Summary" name="Summary" value="@Model.Summary" required />
+    </div>
+    <div class="form-group">
+        <label for="Start">Fecha de Inicio</label>
+        <input type="datetime-local" class="form-control" id="Start" name="Start.DateTime"
+               value="@(GetDateTimeLocal(Model.Start))" required />
+    </div>
+    <div class="form-group">
+        <label for="End">Fecha de Fin</label>
+        <input type="datetime-local" class="form-control" id="End" name="End.DateTime"
+               value="@(GetDateTimeLocal(Model.End))" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Actualizar Evento</button>
+</form>

@@ -1,0 +1,176 @@
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\appsettings.Development.json
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\appsettings.json
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\credentials.json
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\GoogleApi-Reto.staticwebassets.runtime.json
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\GoogleApi-Reto.staticwebassets.endpoints.json
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\GoogleApi-Reto.exe
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\GoogleApi-Reto.deps.json
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\GoogleApi-Reto.runtimeconfig.json
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\GoogleApi-Reto.dll
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\GoogleApi-Reto.pdb
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\Google.Apis.dll
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\Google.Apis.Calendar.v3.dll
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\System.CodeDom.dll
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\System.Management.dll
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.csproj.AssemblyReference.cache
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.AssemblyInfoInputs.cache
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.AssemblyInfo.cs
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.csproj.CoreCompileInputs.cache
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.MvcApplicationPartsAssemblyInfo.cache
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.RazorAssemblyInfo.cache
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.RazorAssemblyInfo.cs
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\scopedcss\bundle\GoogleApi-Reto.styles.css
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\scopedcss\projectbundle\GoogleApi-Reto.bundle.scp.css
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets.build.json
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets.development.json
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets\msbuild.GoogleApi-Reto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets\msbuild.GoogleApi-Reto.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets\msbuild.build.GoogleApi-Reto.props
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GoogleApi-Reto.props
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GoogleApi-Reto.props
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets.pack.json
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleAp.1E360EFC.Up2Date
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.dll
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\refint\GoogleApi-Reto.dll
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.pdb
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.genruntimeconfig.cache
+C:\MyDocs\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\ref\GoogleApi-Reto.dll
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\appsettings.Development.json
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\appsettings.json
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\credentials.json
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\GoogleApi-Reto.staticwebassets.runtime.json
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\GoogleApi-Reto.exe
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\GoogleApi-Reto.deps.json
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\GoogleApi-Reto.runtimeconfig.json
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\GoogleApi-Reto.dll
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\GoogleApi-Reto.pdb
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\Google.Apis.dll
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\Google.Apis.Calendar.v3.dll
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\System.CodeDom.dll
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\System.Management.dll
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.csproj.AssemblyReference.cache
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.AssemblyInfoInputs.cache
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.AssemblyInfo.cs
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.csproj.CoreCompileInputs.cache
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.RazorAssemblyInfo.cache
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.RazorAssemblyInfo.cs
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets.build.json
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets.development.json
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets\msbuild.GoogleApi-Reto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets\msbuild.build.GoogleApi-Reto.props
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GoogleApi-Reto.props
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GoogleApi-Reto.props
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\scopedcss\bundle\GoogleApi-Reto.styles.css
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\scopedcss\projectbundle\GoogleApi-Reto.bundle.scp.css
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.csproj.CopyComplete
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.dll
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\refint\GoogleApi-Reto.dll
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.pdb
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.genruntimeconfig.cache
+C:\Proyectos\Retos\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\ref\GoogleApi-Reto.dll
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\appsettings.json
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\credentials.json
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\GoogleApi-Reto.staticwebassets.runtime.json
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\GoogleApi-Reto.staticwebassets.endpoints.json
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\GoogleApi-Reto.exe
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\GoogleApi-Reto.deps.json
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\GoogleApi-Reto.runtimeconfig.json
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\GoogleApi-Reto.dll
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\GoogleApi-Reto.pdb
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\Google.Apis.Calendar.v3.dll
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\System.Management.dll
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.csproj.AssemblyReference.cache
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.AssemblyInfoInputs.cache
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.AssemblyInfo.cs
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.csproj.CoreCompileInputs.cache
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.RazorAssemblyInfo.cache
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.RazorAssemblyInfo.cs
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\scopedcss\bundle\GoogleApi-Reto.styles.css
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\scopedcss\projectbundle\GoogleApi-Reto.bundle.scp.css
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets\msbuild.GoogleApi-Reto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets\msbuild.GoogleApi-Reto.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets\msbuild.build.GoogleApi-Reto.props
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GoogleApi-Reto.props
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GoogleApi-Reto.props
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleAp.1E360EFC.Up2Date
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.dll
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\refint\GoogleApi-Reto.dll
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.pdb
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.genruntimeconfig.cache
+C:\Users\unaxz\Downloads\GoogleApi-Reto 1\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\ref\GoogleApi-Reto.dll
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\appsettings.json
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\credentials.json
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\GoogleApi-Reto.staticwebassets.endpoints.json
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\GoogleApi-Reto.staticwebassets.runtime.json
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\GoogleApi-Reto.exe
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\GoogleApi-Reto.deps.json
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\GoogleApi-Reto.runtimeconfig.json
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\GoogleApi-Reto.dll
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\GoogleApi-Reto.pdb
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\Google.Apis.Calendar.v3.dll
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\System.Management.dll
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.csproj.AssemblyReference.cache
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.AssemblyInfoInputs.cache
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.AssemblyInfo.cs
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.csproj.CoreCompileInputs.cache
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.RazorAssemblyInfo.cache
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.RazorAssemblyInfo.cs
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\scopedcss\bundle\GoogleApi-Reto.styles.css
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\scopedcss\projectbundle\GoogleApi-Reto.bundle.scp.css
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets\msbuild.GoogleApi-Reto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets\msbuild.GoogleApi-Reto.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets\msbuild.build.GoogleApi-Reto.props
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GoogleApi-Reto.props
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GoogleApi-Reto.props
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleAp.1E360EFC.Up2Date
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.dll
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\refint\GoogleApi-Reto.dll
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.pdb
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\GoogleApi-Reto.genruntimeconfig.cache
+C:\Users\unaxz\Downloads\GoogleApi-Reto\GoogleApi-Reto\obj\Debug\net8.0\ref\GoogleApi-Reto.dll

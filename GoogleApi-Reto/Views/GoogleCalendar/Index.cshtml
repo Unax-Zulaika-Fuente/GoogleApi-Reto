@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Google.Apis.Calendar.v3.Data.Event>
+
+@{
+    ViewData["Title"] = "Lista de Eventos de Google Calendar";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nombre del Evento</th>
+                <th>Fecha inicio</th>
+                <th>Fecha fin</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var calendarEvent in Model)
+            {
+                <tr>
+                    <td hidden>@calendarEvent.Id</td>
+                    <td>@calendarEvent.Summary</td>
+                    <td>@(calendarEvent.Start.DateTimeDateTimeOffset?.ToString("yyyy-MM-dd HH:mm") ?? calendarEvent.Start.Date)</td>
+                    <td>@(calendarEvent.End.DateTimeDateTimeOffset?.ToString("yyyy-MM-dd HH:mm") ?? calendarEvent.End.Date)</td>
+                    <td>
+                        <a href="@Url.Action("Edit", "GoogleCalendar", new { eventId = calendarEvent.Id })" class="btn btn-warning">Editar</a>
+                        <form method="post" action="@Url.Action("Delete", "GoogleCalendar")">
+                            <input type="hidden" name="eventId" value="@calendarEvent.Id" />
+                            <button type="submit" class="btn btn-danger">Eliminar</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No se encontraron eventos.</p>
+}
+
+<p>
+    <a href="@Url.Action("Create", "GoogleCalendar")" class="btn btn-primary">Crear Nuevo Evento</a>
+    <a href="@Url.Action("ChangeAccount", "GoogleCalendar")" class="btn btn-secondary">Cambiar de cuenta</a>
+</p>
