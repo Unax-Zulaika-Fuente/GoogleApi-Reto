@@ -8,10 +8,20 @@
     ".NETCoreApp,Version=v8.0": {
       "GoogleApi-Reto/1.0.0": {
         "dependencies": {
-          "Google.Apis.Calendar.v3": "1.69.0.3667"
+          "Google.Apis.Calendar.v3": "1.69.0.3667",
+          "Google.Apis.Gmail.v1": "1.68.0.3427",
+          "MimeKit": "4.11.0"
         },
         "runtime": {
           "GoogleApi-Reto.dll": {}
+        }
+      },
+      "BouncyCastle.Cryptography/2.5.1": {
+        "runtime": {
+          "lib/net6.0/BouncyCastle.Cryptography.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.5.1.28965"
+          }
         }
       },
       "Google.Apis/1.69.0": {
@@ -61,6 +71,30 @@
           }
         }
       },
+      "Google.Apis.Gmail.v1/1.68.0.3427": {
+        "dependencies": {
+          "Google.Apis": "1.69.0",
+          "Google.Apis.Auth": "1.69.0"
+        },
+        "runtime": {
+          "lib/net6.0/Google.Apis.Gmail.v1.dll": {
+            "assemblyVersion": "1.68.0.3427",
+            "fileVersion": "1.68.0.3427"
+          }
+        }
+      },
+      "MimeKit/4.11.0": {
+        "dependencies": {
+          "BouncyCastle.Cryptography": "2.5.1",
+          "System.Security.Cryptography.Pkcs": "8.0.1"
+        },
+        "runtime": {
+          "lib/net8.0/MimeKit.dll": {
+            "assemblyVersion": "4.11.0.0",
+            "fileVersion": "4.11.0.0"
+          }
+        }
+      },
       "Newtonsoft.Json/13.0.3": {
         "runtime": {
           "lib/net6.0/Newtonsoft.Json.dll": {
@@ -95,6 +129,22 @@
             "fileVersion": "7.0.723.27404"
           }
         }
+      },
+      "System.Security.Cryptography.Pkcs/8.0.1": {
+        "runtime": {
+          "lib/net8.0/System.Security.Cryptography.Pkcs.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.1024.46610"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.1024.46610"
+          }
+        }
       }
     }
   },
@@ -103,6 +153,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "BouncyCastle.Cryptography/2.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zy8TMeTP+1FH2NrLaNZtdRbBdq7u5MI+NFZQOBSM69u5RFkciinwzV2eveY6Kjf5MzgsYvvl6kTStsj3JrXqkg==",
+      "path": "bouncycastle.cryptography/2.5.1",
+      "hashPath": "bouncycastle.cryptography.2.5.1.nupkg.sha512"
     },
     "Google.Apis/1.69.0": {
       "type": "package",
@@ -132,6 +189,20 @@
       "path": "google.apis.core/1.69.0",
       "hashPath": "google.apis.core.1.69.0.nupkg.sha512"
     },
+    "Google.Apis.Gmail.v1/1.68.0.3427": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SOCapuhgPUxPARbO97TpB26jmyJwyJG1hLeEXjeVnWhgf3sXfANbu4JcPULkEkNC7RUahh02gqiN7jyo3mvedw==",
+      "path": "google.apis.gmail.v1/1.68.0.3427",
+      "hashPath": "google.apis.gmail.v1.1.68.0.3427.nupkg.sha512"
+    },
+    "MimeKit/4.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6p0RC1qwBGBHxf7hvzuR1GngzigF+Q6HQUTbD2RbmDrnS2m1qO2rgqOhYtn8n8JH7WGZ+7RthS8lfMuMzeg8AA==",
+      "path": "mimekit/4.11.0",
+      "hashPath": "mimekit.4.11.0.nupkg.sha512"
+    },
     "Newtonsoft.Json/13.0.3": {
       "type": "package",
       "serviceable": true,
@@ -152,6 +223,13 @@
       "sha512": "sha512-/qEUN91mP/MUQmJnM5y5BdT7ZoPuVrtxnFlbJ8a3kBJGhe2wCzBfnPFtK2wTtEEcf3DMGR9J00GZZfg6HRI6yA==",
       "path": "system.management/7.0.2",
       "hashPath": "system.management.7.0.2.nupkg.sha512"
+    },
+    "System.Security.Cryptography.Pkcs/8.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CoCRHFym33aUSf/NtWSVSZa99dkd0Hm7OCZUxORBjRB16LNhIEOf8THPqzIYlvKM0nNDAPTRBa1FxEECrgaxxA==",
+      "path": "system.security.cryptography.pkcs/8.0.1",
+      "hashPath": "system.security.cryptography.pkcs.8.0.1.nupkg.sha512"
     }
   }
 }

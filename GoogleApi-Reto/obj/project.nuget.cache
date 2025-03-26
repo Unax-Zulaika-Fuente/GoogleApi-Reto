@@ -1,16 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "KOeLbN3/PeU=",
+  "dgSpecHash": "W4IrPpmEbfEPmLtj7CCrTgVZ/7/jT6XqjhmQ7ivCboN6mCQxiSsIrhQ2BJ/heRYCOtzfjdzF6h/4A8mwoHYN5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\GoogleApi-Reto.csproj",
+  "projectFilePath": "C:\\Proyectos\\RetoGit\\GoogleApi-Reto\\GoogleApi-Reto\\GoogleApi-Reto.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\unaxz\\.nuget\\packages\\google.apis\\1.69.0\\google.apis.1.69.0.nupkg.sha512",
-    "C:\\Users\\unaxz\\.nuget\\packages\\google.apis.auth\\1.69.0\\google.apis.auth.1.69.0.nupkg.sha512",
-    "C:\\Users\\unaxz\\.nuget\\packages\\google.apis.calendar.v3\\1.69.0.3667\\google.apis.calendar.v3.1.69.0.3667.nupkg.sha512",
-    "C:\\Users\\unaxz\\.nuget\\packages\\google.apis.core\\1.69.0\\google.apis.core.1.69.0.nupkg.sha512",
-    "C:\\Users\\unaxz\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\unaxz\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
-    "C:\\Users\\unaxz\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+    "C:\\Users\\elena.vlad\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
+    "C:\\Users\\elena.vlad\\.nuget\\packages\\google.apis\\1.69.0\\google.apis.1.69.0.nupkg.sha512",
+    "C:\\Users\\elena.vlad\\.nuget\\packages\\google.apis.auth\\1.69.0\\google.apis.auth.1.69.0.nupkg.sha512",
+    "C:\\Users\\elena.vlad\\.nuget\\packages\\google.apis.calendar.v3\\1.69.0.3667\\google.apis.calendar.v3.1.69.0.3667.nupkg.sha512",
+    "C:\\Users\\elena.vlad\\.nuget\\packages\\google.apis.core\\1.69.0\\google.apis.core.1.69.0.nupkg.sha512",
+    "C:\\Users\\elena.vlad\\.nuget\\packages\\google.apis.gmail.v1\\1.68.0.3427\\google.apis.gmail.v1.1.68.0.3427.nupkg.sha512",
+    "C:\\Users\\elena.vlad\\.nuget\\packages\\mimekit\\4.11.0\\mimekit.4.11.0.nupkg.sha512",
+    "C:\\Users\\elena.vlad\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\elena.vlad\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\elena.vlad\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512",
+    "C:\\Users\\elena.vlad\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.1\\system.security.cryptography.pkcs.8.0.1.nupkg.sha512"
   ],
   "logs": []
 }

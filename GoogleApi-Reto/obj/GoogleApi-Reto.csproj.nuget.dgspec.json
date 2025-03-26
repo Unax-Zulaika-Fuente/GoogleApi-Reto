@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\GoogleApi-Reto.csproj": {}
+    "C:\\Proyectos\\RetoGit\\GoogleApi-Reto\\GoogleApi-Reto\\GoogleApi-Reto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\GoogleApi-Reto.csproj": {
+    "C:\\Proyectos\\RetoGit\\GoogleApi-Reto\\GoogleApi-Reto\\GoogleApi-Reto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\GoogleApi-Reto.csproj",
+        "projectUniqueName": "C:\\Proyectos\\RetoGit\\GoogleApi-Reto\\GoogleApi-Reto\\GoogleApi-Reto.csproj",
         "projectName": "GoogleApi-Reto",
-        "projectPath": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\GoogleApi-Reto.csproj",
-        "packagesPath": "C:\\Users\\unaxz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\unaxz\\Downloads\\GoogleApi-Reto\\GoogleApi-Reto\\obj\\",
+        "projectPath": "C:\\Proyectos\\RetoGit\\GoogleApi-Reto\\GoogleApi-Reto\\GoogleApi-Reto.csproj",
+        "packagesPath": "C:\\Users\\elena.vlad\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\RetoGit\\GoogleApi-Reto\\GoogleApi-Reto\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\unaxz\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\elena.vlad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,13 +35,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -54,6 +44,14 @@
             "Google.Apis.Calendar.v3": {
               "target": "Package",
               "version": "[1.69.0.3667, )"
+            },
+            "Google.Apis.Gmail.v1": {
+              "target": "Package",
+              "version": "[1.68.0.3427, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[4.11.0, )"
             }
           },
           "imports": [
@@ -75,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

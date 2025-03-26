@@ -11,12 +11,16 @@ using GoogleApi_Reto.DataStore;
 using GoogleApi_Reto.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Reflection;
+using MimeKit;
+using Google.Apis.Gmail.v1.Data;
+using Google.Apis.Gmail.v1;
+using Google.Apis.Auth;
 
 namespace GoogleApi_Reto.Controllers
 {
     public class GoogleCalendarController : Controller
     {
-        private static string[] Scopes = { CalendarService.Scope.Calendar };
+        private static string[] Scopes = { CalendarService.Scope.Calendar, GmailService.Scope.GmailSend, "https://www.googleapis.com/auth/userinfo.email" };
 
         
         public GoogleCalendarController()
@@ -56,39 +60,20 @@ namespace GoogleApi_Reto.Controllers
             return credential;
         }
 
-
-        //private static async Task<UserCredential> GetGoogleCredential()
-        //{
-        //    var clientSecrets = new ClientSecrets
-        //    {
-        //        ClientId = "971462718389-5iplr0gv5casfdbctn8otsrhses6ffqa.apps.googleusercontent.com",
-        //        ClientSecret = "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"
-        //    };
-
-        //    // Crear el flujo de autorización
-        //    var flow = new GoogleAuthorizationCodeFlow(new GoogleAuthorizationCodeFlow.Initializer
-        //    {
-        //        ClientSecrets = clientSecrets,
-        //        Scopes = Scopes,
-        //        DataStore = new FileDataStore("Google.Apis.Auth")
-        //    });
-
-        //    // Cargar el token o solicitar autorización
-        //    var credential = await GoogleWebAuthorizationBroker.AuthorizeAsync(
-        //        clientSecrets,
-        //        Scopes,
-        //        "user", // Nombre de la cuenta
-        //        CancellationToken.None,
-        //        new FileDataStore("Google.Apis.Auth", true)
-        //    );
-
-        //    return credential;
-        //}
-
         private static CalendarService GetCalendarService(UserCredential credential)
         {
             // Crear el servicio de Google Calendar
             return new CalendarService(new BaseClientService.Initializer()
+            {
+                HttpClientInitializer = credential,
+                ApplicationName = "GoogleApi-Reto"
+            });
+        }
+
+        private static GmailService GetGmailService(UserCredential credential)
+        {
+            // Crear el servicio de Google Calendar
+            return new GmailService(new BaseClientService.Initializer()
             {
                 HttpClientInitializer = credential,
                 ApplicationName = "GoogleApi-Reto"
@@ -149,8 +134,51 @@ namespace GoogleApi_Reto.Controllers
                 };
 
                 var eventRequest = service.Events.Insert(newEvent, "primary");
+                await CreateEmail(evt);
                 await eventRequest.ExecuteAsync();
                 return RedirectToAction("Index");
+            }
+            return View(newEvent); // Si el modelo no es válido, volver a la vista con el evento
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> CreateEmail(GoogleCalendarEventInsert evt)
+        {
+            // Obtener las credenciales de Google
+            var credential = await GetGoogleCredential(HttpContext, false);
+
+            // Crear el servicio de Google Calendar
+            var service = GetGmailService(credential);
+
+            var payload = GoogleJsonWebSignature.ValidateAsync(credential.Token.IdToken).Result;
+
+            Event newEvent = new Event();
+
+            if (ModelState.IsValid)
+            {
+
+                var message = new MimeMessage();
+                message.From.Add(new MailboxAddress("Reto Api", "retoApi@gmail.com"));
+                message.To.Add(new MailboxAddress("", payload.Email));
+                message.Subject = "Correo de prueba desde API Gmail";
+
+                var bodyBuilder = new BodyBuilder { TextBody = "Ha creado el evento " + evt.Summary + " que empiece en esta fecha " + evt.Start + " y acaba a esta hora: " + evt.End};
+                message.Body = bodyBuilder.ToMessageBody();
+
+                // Convertir el mensaje MIME a una cadena base64 (requerido por Gmail API)
+                using (var stream = new MemoryStream())
+                {
+                    await message.WriteToAsync(stream);
+                    var rawMessage = Convert.ToBase64String(stream.ToArray())
+                        .Replace("+", "-")
+                        .Replace("/", "_")
+                        .Replace("=", "");
+
+                    var gmailMessage = new Message { Raw = rawMessage };
+
+                    // Enviar el correo
+                    await service.Users.Messages.Send(gmailMessage, "me").ExecuteAsync();
+                }
             }
             return View(newEvent); // Si el modelo no es válido, volver a la vista con el evento
         }
