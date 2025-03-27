@@ -130,7 +130,15 @@ namespace GoogleApi_Reto.Controllers
                     Summary = evt.Summary,
                     Description = evt.Description,
                     Start = new EventDateTime { DateTimeDateTimeOffset = evt.Start },                 
-                    End = new EventDateTime { DateTimeDateTimeOffset = evt.End }
+                    End = new EventDateTime { DateTimeDateTimeOffset = evt.End },
+                    Reminders = new Event.RemindersData
+                    {
+                        UseDefault = false,
+                        Overrides = new List<EventReminder>
+                        {
+                            new EventReminder { Method = "popup", Minutes = 0 }
+                        }
+                    }
                 };
 
                 var eventRequest = service.Events.Insert(newEvent, "primary");
