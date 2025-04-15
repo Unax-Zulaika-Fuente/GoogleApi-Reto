@@ -29,11 +29,6 @@ El proyecto es el resultado de un pequeño reto realizado en la empresa Integra 
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
 - **Autenticación**: OAuth 2.0 con Google
 
-## Equipo de desarrollo
-Este proyecto fue desarrollado como parte de un reto en la empresa Integra por un equipo de 4 personas:
-- Unax Zulaika Fuente
-- 3 compañeros más de la empresa Integra
-
 ## Cómo empezar
 1. Clona este repositorio
 2. Configura tus credenciales de Google en el archivo `credentials.json`
