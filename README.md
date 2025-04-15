@@ -3,7 +3,7 @@
 ## Descripción
 Este proyecto consiste en una aplicación web desarrollada con ASP.NET Core 8.0 que integra con las APIs de Google Calendar y Gmail para gestionar eventos del calendario y enviar correos electrónicos.
 
-El proyecto es el resultado de un pequeño reto realizado en la empresa Integra en colaboración con 2 compañeros más, donde pusimos en práctica nuestros conocimientos en desarrollo web y la integración de APIs de terceros.
+El proyecto es el resultado de un pequeño reto realizado en la empresa Integra Tecnología en colaboración con 2 compañeros más, donde pusimos en práctica nuestros conocimientos en desarrollo web y la integración de APIs de terceros.
 
 ## Funcionalidades principales
 
