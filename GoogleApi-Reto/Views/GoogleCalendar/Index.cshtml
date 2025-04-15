@@ -2,11 +2,24 @@
 
 @{
     ViewData["Title"] = "Lista de Eventos de Google Calendar";
+
+    // Obtener el número de página actual desde la query string, con valor por defecto 1
+    int currentPage = 1;
+    if (!string.IsNullOrEmpty(Context.Request.Query["page"]))
+    {
+        int.TryParse(Context.Request.Query["page"], out currentPage);
+    }
+    int pageSize = 10;
+    var totalEvents = Model.Count();
+    var totalPages = (int)Math.Ceiling(totalEvents / (double)pageSize);
+    
+    // Seleccionar los eventos correspondientes a la página actual
+    var eventsToShow = Model.Skip((currentPage - 1) * pageSize).Take(pageSize);
 }
 
 <h2>@ViewData["Title"]</h2>
 
-@if (Model != null && Model.Any())
+@if (totalEvents > 0)
 {
     <table class="table">
         <thead>
@@ -18,7 +31,7 @@
             </tr>
         </thead>
         <tbody>
-            @foreach (var calendarEvent in Model)
+            @foreach (var calendarEvent in eventsToShow)
             {
                 <tr>
                     <td hidden>@calendarEvent.Id</td>
@@ -27,7 +40,7 @@
                     <td>@(calendarEvent.End.DateTimeDateTimeOffset?.ToString("yyyy-MM-dd HH:mm") ?? calendarEvent.End.Date)</td>
                     <td>
                         <a href="@Url.Action("Edit", "GoogleCalendar", new { eventId = calendarEvent.Id })" class="btn btn-warning">Editar</a>
-                        <form method="post" action="@Url.Action("Delete", "GoogleCalendar")">
+                        <form method="post" action="@Url.Action("Delete", "GoogleCalendar")" style="display:inline;">
                             <input type="hidden" name="eventId" value="@calendarEvent.Id" />
                             <button type="submit" class="btn btn-danger">Eliminar</button>
                         </form>
@@ -36,6 +49,63 @@
             }
         </tbody>
     </table>
+
+    @if (totalPages > 1)
+    {
+        <nav aria-label="Navegación de página">
+            <ul class="pagination">
+                @* Botón para ir a la primera página *@
+                <li class="page-item @(currentPage == 1 ? "disabled" : "")">
+                    <a class="page-link" href="@Url.Action("Index", "GoogleCalendar", new { page = 1 })">&lt;&lt;</a>
+                </li>
+                @* Botón para retroceder una página *@
+                <li class="page-item @(currentPage == 1 ? "disabled" : "")">
+                    <a class="page-link" href="@Url.Action("Index", "GoogleCalendar", new { page = currentPage - 1 })">&lt;</a>
+                </li>
+
+                @* Cálculo de ventana deslizante de 5 páginas *@
+                @{
+                    int maxPagesToShow = 5;
+                    int startPage, endPage;
+                    if (totalPages <= maxPagesToShow)
+                    {
+                        startPage = 1;
+                        endPage = totalPages;
+                    }
+                    else
+                    {
+                        startPage = currentPage - 2;
+                        endPage = currentPage + 2;
+                        if (startPage < 1)
+                        {
+                            endPage += (1 - startPage);
+                            startPage = 1;
+                        }
+                        if (endPage > totalPages)
+                        {
+                            startPage -= (endPage - totalPages);
+                            endPage = totalPages;
+                        }
+                    }
+                }
+                @for (int i = startPage; i <= endPage; i++)
+                {
+                    <li class="page-item @(i == currentPage ? "active" : "")">
+                        <a class="page-link" href="@Url.Action("Index", "GoogleCalendar", new { page = i })">@i</a>
+                    </li>
+                }
+
+                @* Botón para avanzar una página *@
+                <li class="page-item @(currentPage == totalPages ? "disabled" : "")">
+                    <a class="page-link" href="@Url.Action("Index", "GoogleCalendar", new { page = currentPage + 1 })">&gt;</a>
+                </li>
+                @* Botón para ir a la última página *@
+                <li class="page-item @(currentPage == totalPages ? "disabled" : "")">
+                    <a class="page-link" href="@Url.Action("Index", "GoogleCalendar", new { page = totalPages })">&gt;&gt;</a>
+                </li>
+            </ul>
+        </nav>
+    }
 }
 else
 {
